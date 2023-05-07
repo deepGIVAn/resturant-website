@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Restaurant
+
+# Devil's Restaurant
 Restaurant Website
 =======
 # MaterialUI-Resturant-website on ReactJs
